@@ -1,3 +1,2 @@
-game:GetService("RunService"):Set3dRenderingEnabled(false)
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "🙂", Text = "Script changed, dm @w9u for the new one. ", Duration = 99});
-end
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "🙂", Text = "Script changed, dm @w9u on discord for the new one. ", Duration = 999});
+wait(100)
