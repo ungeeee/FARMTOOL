@@ -1,4 +1,8 @@
- --[[ -- message -- ]]--
+game:GetService("RunService"):Set3dRenderingEnabled(false)
+
+--[[ -- message -- ]]--
 
 game:GetService("StarterGui"):SetCore("SendNotification", {Title = "🙂", Text = "Script changed, dm @w9u for the new one. ", Duration = 999});
+
+
 end
